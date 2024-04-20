@@ -23,6 +23,4 @@
     <td>Git ADD</td>
     <td>Ad New Change to Git Repo</td>
   </tr>
-  
-  
-</table>
+  </table>
